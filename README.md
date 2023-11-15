@@ -27,8 +27,9 @@ ___
   <img alt="Tailwind" height="40px" style="padding-right:10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+
 ___
 
-### 🥇 Top used languages
+### 🥇 Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&layout=donut-vertical)
