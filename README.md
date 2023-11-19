@@ -27,6 +27,7 @@ ___
   <img alt="Sass" width="70px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img alt="Tailwind" height="40px" style="padding-right:10px; object-fit: contain;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Entity Framework Core" width="70px" height="40px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-8.0/ef8.png" />
 </div>
 
 ___
