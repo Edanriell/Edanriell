@@ -16,7 +16,9 @@ ___
   <img alt="Csharp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="Dot-net" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />
   <img alt="Express" width="70px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img alt="Blazor" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" />
+  <img alt="Blazor" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" /> 
+  <img alt="Webpack" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> 
+  <img alt="Webpack" width="40px" style="padding-right:10px;" src="https://vitejs.dev/logo-with-shadow.png" />
 </div>
 <div align="left">
   <img alt="Nest" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
