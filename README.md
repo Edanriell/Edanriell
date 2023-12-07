@@ -1,4 +1,4 @@
-# 🚀🌟 Hello there boys and girls, my name is Lauris.
+# 🚀🌟 Hello there, my name is Lauris 👋
 
 I’m full-stack developer, big tech fan and pc enthusiast 🖥️.
 
