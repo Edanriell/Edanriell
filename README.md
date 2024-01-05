@@ -1,6 +1,6 @@
 # 🚀🌟 Hello there, my name is Lauris 👋
 
-I’m full-stack developer, big tech fan and pc enthusiast 🖥️
+I’m full-stack developer and big tech fan 🖥️
 
 ___
 
