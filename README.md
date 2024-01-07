@@ -1,8 +1,12 @@
 # 🚀🌟 Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="280" />
+
+<br>
+
 I’m full-stack developer and big tech fan 🖥️
 
-___
+<br>
 
 ### 🧰 Languages and Tools
 
@@ -32,8 +36,17 @@ ___
   <img alt="Entity Framework Core" width="70px" height="40px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-8.0/ef8.png" />
 </div>
 
-___
+<br>
 
-### 🥇 Most used languages
+### 📈 Github activity graph
+[![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&layout=donut-vertical)
+<br>
+
+| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=tokyonight) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=tokyonight) |
+| --- | --- |
+
+<br>
+
+| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=radical" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/a5bffede550342b49d3cc363d7888c01.png?r=fqc" width="400" alt="Lauris's Dev Card"/></a> |
+| --- | --- |
