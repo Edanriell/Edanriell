@@ -43,7 +43,7 @@ I’m full-stack developer and big tech fan 🖥️
 
 <br>
 
-| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=tokyonight) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=tokyonight) |
+| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=tokyonight) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edanriell&theme=tokyonight) |
 | --- | --- |
 
 <br>
