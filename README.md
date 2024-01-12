@@ -39,14 +39,15 @@ I’m full-stack developer and big tech fan 🖥️
 <br>
 
 ### 📈 Github activity graph
-[![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=272626&color=f6f4f6&line=0f8ef0&point=f8f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&theme=nightowl) |
+| --- |
 
 <br>
 
-| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=tokyonight) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Edanriell&theme=tokyonight) |
+| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=nightowl) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=nightowl) |
 | --- | --- |
 
 <br>
 
-| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=radical" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/a5bffede550342b49d3cc363d7888c01.png?r=lck" width="400" alt="Lauris's Dev Card"/></a> |
+| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=nightowl" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/a5bffede550342b49d3cc363d7888c01.png?r=lck" width="400" alt="Lauris's Dev Card"/></a> |
 | --- | --- |
