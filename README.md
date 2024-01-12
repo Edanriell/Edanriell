@@ -1,7 +1,6 @@
 # 🚀🌟 Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-| <img align="right" alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/night.gif" height="300" /> |
-| --- |
+<img align="right" alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/night.gif" height="300" />
 
 <br>
 
@@ -53,5 +52,5 @@ I’m full-stack developer and big tech fan 🖥️
 | <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=nightowl" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/a5bffede550342b49d3cc363d7888c01.png?r=lck" width="400" alt="Lauris's Dev Card"/></a> |
 | --- | --- |
 
-| <img alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/blade.gif" width="814px" /> |
+| <img alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/blade.gif" width="804px" /> |
 | --- |
