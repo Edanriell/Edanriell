@@ -1,6 +1,6 @@
 # 🚀🌟 Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<img align="right" alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/night.gif" height="300" style="padding-bottom:120px;" />
+<img align="right" alt="GIF" src="https://github.com/Edanriell/Edanriell/blob/main/night.gif" height="300" style="margin-bottom:120px;" />
 
 <br>
 
