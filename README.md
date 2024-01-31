@@ -8,7 +8,7 @@
 
 <br>
 
-I’m full-stack developer and big tech fan 🖥️
+<h2 align="center">I’m full-stack developer and big tech fan 🖥️</h2>
 
 <br>
 
