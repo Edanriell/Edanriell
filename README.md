@@ -19,9 +19,22 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   </a>
 </p>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,redux,sass,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,redux,sass,tailwind" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,bash" />
   </a>
 </p>
 
