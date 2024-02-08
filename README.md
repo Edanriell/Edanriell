@@ -12,7 +12,12 @@
 
 <br>
 
-### 🧰 Languages, libraries & frameworks
+<div align="center">
+  <img alt="Languages, libraries & frameworks" align="center" width="50px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/1f5400b5d528a4a3d8e49510c5b43e05f500d30c/computer-solid.svg" /> 
+  <strong>Languages, libraries & frameworks</strong>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +49,16 @@
   </a>
 </p>
 
-### 🧰 Tools
+<br>
+
+<br>
+
+<div align="center">
+  <img alt="Tools" align="center" width="40px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/1f5400b5d528a4a3d8e49510c5b43e05f500d30c/tools-solid.svg" /> 
+  <strong>Tools</strong>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +72,16 @@
   </a>
 </p>
 
-### 🧰 Databases
+<br>
+
+<br>
+
+<div align="center">
+  <img alt="Database" align="center" width="40px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/1f5400b5d528a4a3d8e49510c5b43e05f500d30c/database-solid.svg" /> 
+  <strong>Databases</strong>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
