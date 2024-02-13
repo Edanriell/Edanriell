@@ -14,7 +14,7 @@
 
 <div align="center">
   <img alt="Languages, libraries & frameworks" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
-  <strong style="font-size: 34px;">Languages, libraries & frameworks</strong>
+  <strong>Languages, libraries & frameworks</strong>
 </div>
 
 <br>
