@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,nuxtjs,nestjs,prisma,astro" />
+    <img src="https://skillicons.dev/icons?i=threejs" />
   </a>
 </p>
 
