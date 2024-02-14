@@ -95,7 +95,7 @@
 <div align="left">
   <img alt="Entity Framework Core" width="70px" height="40px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/ef/core/what-is-new/ef-core-8.0/ef8.png" />
 </div>
-
+fm, g
 <br>
 
 <div align="center">
