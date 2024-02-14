@@ -33,13 +33,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap,styledcomponents" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bash,jquery" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bash,jquery,materialui,emotion" />
   </a>
 </p>
 
