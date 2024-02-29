@@ -87,10 +87,6 @@
   </a>
 </p>
 
-<div align="left">
-  <img alt="Blazor" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" /> 
-</div>
-
 <br>
 
 <div align="center">
