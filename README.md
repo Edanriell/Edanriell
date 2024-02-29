@@ -32,9 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap,styledcomponents" />
-  </a>
+  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap,styledcomponents" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
 </p>
 
 <p align="center">
