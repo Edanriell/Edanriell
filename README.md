@@ -21,28 +21,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nextjs,redux,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,redux,sass,vue,styledcomponents,vite" />
   </a>
 </p>
 
 <p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,vue,webpack,vite,bootstrap,styledcomponents" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
+  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nodejs,webpack,bootstrap,jquery,emotion" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
 </p>
 
 <p align="center">
-  <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bash,jquery,materialui,emotion" /></a></span>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs" />
-  </a>
+  <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,materialui,threejs" /></a></span>
 </p>
 
 <br>
