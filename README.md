@@ -81,6 +81,8 @@
 
 <br>
 
+<br>
+
 <div align="center">
   <img alt="Github activity graph" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/bar-chart.gif" /> 
   <strong>Github activity graph</strong>
