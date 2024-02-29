@@ -36,9 +36,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bash,jquery,materialui,emotion" />
-  </a>
+  <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bash,jquery,materialui,emotion" /></a></span>
 </p>
 
 <p align="center">
