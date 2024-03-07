@@ -4,7 +4,7 @@
 
 <br>
 
-<img alt="GIF" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/night-pc.gif" width="100%" />
+<img alt="GIF" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/coder.gif" width="100%" />
 
 <br>
 
