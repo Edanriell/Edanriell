@@ -8,6 +8,8 @@
 
 <br>
 
+<img alt="Languages, libraries & frameworks" align="right" width="auto" src="https://github.com/Edanriell/Edanriell/blob/main/assets/pug.gif" /> 
+
 <br>
 
 <h2 align="center">I’m full-stack developer and big tech fan 🖥️</h2>
