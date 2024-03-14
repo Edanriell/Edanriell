@@ -12,34 +12,34 @@
 
 <br>
 
-<h2 align="center">I’m full-stack developer and big tech fan 🖥️</h2>
+<h2 align="left">I’m full-stack developer and big tech fan 🖥️</h2>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img alt="Languages, libraries & frameworks" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
   <strong>Languages, libraries & frameworks</strong>
 </div>
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,nextjs,redux,sass,vue,styledcomponents,vite" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nodejs,webpack,bootstrap,jquery,emotion" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
 </p>
 
-<p align="center">
+<p align="left">
   <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,materialui,threejs" /></a></span>
 </p>
 
