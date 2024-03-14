@@ -104,13 +104,13 @@
 
 <br>
 
-![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&card_width=500)
-![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=300)
+![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&card_width=350)
+![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=450)
 
 <br>
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16" alt="Most used languages" />
-<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="400" alt="Lauris's Dev Card"/></a>
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16" alt="Most used languages" />
+<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="300" alt="Lauris's Dev Card"/></a>
 
 <br>
 
