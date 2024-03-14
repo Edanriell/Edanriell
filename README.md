@@ -56,7 +56,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure,netlify,vercel,webstorm,rider,clion" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,netlify,vercel,webstorm,rider,clion" />
   </a>
 </p>
 
