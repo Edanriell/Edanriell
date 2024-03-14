@@ -12,11 +12,11 @@
 
 <br>
 
-<strong align="left">I’m full-stack developer and big tech fan 🖥️</strong>
+<h3 align="left">I’m full-stack developer and big tech fan 🖥️</h3>
 
 <br>
 
-<div align="left">
+<div align="center">
   <img alt="Languages, libraries & frameworks" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
   <strong>Languages, libraries & frameworks</strong>
 </div>
