@@ -47,28 +47,16 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /> 
   <strong>Tools</strong>
 </div>
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,azure,netlify,vercel" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,rider,clion" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure,netlify,vercel,webstorm,rider,clion" />
   </a>
 </p>
 
@@ -76,27 +64,20 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img alt="Database" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/server.gif" /> 
   <strong>Databases</strong>
 </div>
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 
 <br>
-
-<br>
-
-<div align="center">
-  <img alt="Github activity graph" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/bar-chart.gif" /> 
-  <strong>Github stats</strong>
-</div>
 
 <br>
 
