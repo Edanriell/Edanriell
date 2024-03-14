@@ -95,23 +95,24 @@
 
 <div align="center">
   <img alt="Github activity graph" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/bar-chart.gif" /> 
-  <strong>Github activity graph</strong>
+  <strong>Github stats</strong>
 </div>
 
 <br>
 
-| ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFEFE&color=444D57&title_color=3A80E8&point=5994EC&line=D8E5F9&radius=6) |
-| --- |
+![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFEFE&color=444D57&title_color=3A80E8&point=5994EC&line=D8E5F9&radius=16)
 
 <br>
 
-| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default) |
-| --- | --- |
+![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16)
+![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16)
 
 <br>
 
-| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="400" alt="Lauris's Dev Card"/></a> |
-| --- | --- |
+<img align="left" width="590" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16" alt="Most used languages" />
+<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="400" alt="Lauris's Dev Card"/></a>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
