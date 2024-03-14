@@ -100,17 +100,17 @@
 
 <br>
 
-| ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFFFF&color=3083FA&title_color=3083FA&point=3083FA&line=CEE2FE) |
+| ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFEFE&color=444D57&title_color=3A80E8&point=5994EC&line=D8E5F9) |
 | --- |
 
 <br>
 
-| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=transparent) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=transparent) |
+| ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default) | ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default) |
 | --- | --- |
 
 <br>
 
-| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=transparent" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="400" alt="Lauris's Dev Card"/></a> |
+| <img align="center" width=600 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default" alt="Jas-Script" /> | <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=jsq" width="400" alt="Lauris's Dev Card"/></a> |
 | --- | --- |
 
 <div align="center">
