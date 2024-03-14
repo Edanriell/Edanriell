@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="left">I’m full-stack developer and big tech fan 🖥️</h2>
+<strong align="left">I’m full-stack developer and big tech fan 🖥️</strong>
 
 <br>
 
