@@ -8,7 +8,7 @@
 
 <br>
 
-<img alt="Languages, libraries & frameworks" align="right" height="500px" width="400px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/pug.gif" /> 
+<img alt="Languages, libraries & frameworks" align="right" height="460px" width="420px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/pug.gif" /> 
 
 <br>
 
