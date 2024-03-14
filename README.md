@@ -8,8 +8,6 @@
 
 <br>
 
-<img alt="GIF" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/coder.gif" width="100%" />
-
 <br>
 
 <h2 align="center">I’m full-stack developer and big tech fan 🖥️</h2>
