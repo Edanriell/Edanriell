@@ -49,8 +49,6 @@
 
 <br>
 
-<img alt="Languages, libraries & frameworks" align="right" height="auto" width="400px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/telescope.png" />
-
 <div align="center">
   <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /> 
   <strong>Tools</strong>
@@ -60,13 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,netlify,vercel,webstorm,rider,clion" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure,netlify,vercel,webstorm,rider,clion" />
   </a>
 </p>
 
