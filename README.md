@@ -8,8 +8,6 @@
 
 <br>
 
-<img alt="Languages, libraries & frameworks" align="right" height="360px" width="auto" src="https://github.com/Edanriell/Edanriell/blob/main/assets/planet.png" /> 
-
 <br>
 
 <h3 align="center">I’m full-stack developer and big tech fan 🖥️</h3>
@@ -25,21 +23,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,tailwind,nextjs,redux" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,redux,sass,vue,webpack,express,nodejs,vite" />
+    <img src="https://skillicons.dev/icons?i=sass,vue,webpack,express,nodejs,vite,bootstrap,jquery,emotion,styledcomponents" />
   </a>
 </p>
 
 <p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,jquery,emotion,styledcomponents,bash,materialui,threejs" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
+  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,materialui,threejs" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
 </p>
-
-<img alt="Languages, libraries & frameworks" align="right" height="100px" width="360px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" /> 
 
 <p align="center">
   <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"></a></span>
