@@ -9,7 +9,7 @@
 <br>
 
 <img alt="Languages, libraries & frameworks" align="right" height="400px" width="auto" src="https://github.com/Edanriell/Edanriell/blob/main/assets/planet.png" /> 
-<img align="right" width="480px" height="120px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" />
+<img align="right" width="440px" height="120px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" />
 
 <br>
 
