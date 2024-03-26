@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,redux,sass,vue,styledcomponents,vite" />
+    <img src="https://skillicons.dev/icons?i=dotnet,tailwind,nextjs,redux,sass,vue,styledcomponents,vite" />
   </a>
 </p>
 
