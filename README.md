@@ -47,7 +47,7 @@
 
 <br>
 
-<img alt="Languages, libraries & frameworks" align="left" height="460px" width="440px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/planet.png" /> 
+<img alt="Languages, libraries & frameworks" align="left" height="440px" width="auto" src="https://github.com/Edanriell/Edanriell/blob/main/assets/planet.png" /> 
 
 <div align="center">
   <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /> 
