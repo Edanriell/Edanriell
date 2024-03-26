@@ -39,11 +39,11 @@
   <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,jquery,emotion,styledcomponents,bash,materialui,threejs" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" /></span>
 </p>
 
+<img alt="Languages, libraries & frameworks" align="right" height="120px" width="360px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" /> 
+
 <p align="center">
   <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"></a></span>
 </p>
-
-<img alt="Languages, libraries & frameworks" align="right" height="360px" width="360px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" /> 
 
 <br>
 
