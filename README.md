@@ -9,7 +9,6 @@
 <br>
 
 <img alt="Languages, libraries & frameworks" align="right" height="360px" width="auto" src="https://github.com/Edanriell/Edanriell/blob/main/assets/planet.png" /> 
-<img alt="Languages, libraries & frameworks" align="right" height="360px" width="360px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" /> 
 
 <br>
 
@@ -43,6 +42,8 @@
 <p align="center">
   <span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,materialui,threejs" /></a></span>
 </p>
+
+<img alt="Languages, libraries & frameworks" align="right" height="360px" width="360px" src="https://github.com/Edanriell/Edanriell/blob/main/assets/transparent.png" /> 
 
 <br>
 
