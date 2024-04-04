@@ -11,8 +11,7 @@
 <br>
 
 <h3 align="center">I’m full-stack developer and big tech fan 🖥️</h3>
-<p align="center">Coding in JavaScript, TypeScript, C# and C++.</p>
-<p align="center">Fully addicted to C++ ❤️</p>
+<p align="center">Coding in JavaScript, TypeScript, C# and C++ ❤️</p>
 
 <br>
 
