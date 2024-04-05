@@ -90,7 +90,7 @@
 
 <br>
 
-![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&card_width=400)
+![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&rank_icon=percentile&show_icons=true&theme=default&border_radius=16&card_width=400)
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=400)
 
 <br>
