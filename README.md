@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> f
     <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40" width="100%"/>
 </div>
 
