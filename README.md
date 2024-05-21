@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,rider,clion" />
+    <img src="https://skillicons.dev/icons?i=webstorm,rider,clion,npm,pnpm" />
   </a>
 </p>
 
