@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nuxtjs,svelte" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TestingLibrary-Dark.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Gsap-Dark.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/FramerMotion.svg" />&hairsp;&hairsp;&hairsp;&thinsp;</span>
+  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nuxtjs,svelte,astro" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TestingLibrary-Dark.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Gsap-Dark.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/FramerMotion.svg" />&hairsp;&hairsp;&hairsp;&thinsp;</span>
 </p>
 
 <p align="center">
