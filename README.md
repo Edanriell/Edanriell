@@ -63,18 +63,6 @@
 </p>
 
 <br>
-
-<div align="center">
-  <strong>Testing Technologies</strong>
-</div>
-
-<br>
-
-<p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,vitest,cypress" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TestingLibrary-Dark.svg" /></span>
-</p>
-
-<br>
 <br>
 
 <div align="center">
