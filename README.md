@@ -19,7 +19,7 @@
   <img alt="Languages" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
   <strong>Languages</strong>
 </div>
-
+ 
 <br>
 
 <p align="center">
