@@ -59,7 +59,7 @@
 <br>
 
 <p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" /></span>
+  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></span>
 </p>
 
 <br>
