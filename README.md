@@ -9,9 +9,9 @@
 <br>
 <br>
 
-<h3 align="center">I’m front-end engineer and big tech fan 🖥️</h2>
+<h3 align="center">I’m Front-End Engineer and big tech fan 🖥️</h2>
 <h3 align="center">Specialize in React (Next) and Vue (Nuxt) 🚀</h3>
-<p align="center"><strong>Coding in JavaScript, TypeScript and C# ❤️</strong></p>
+<h3 align="center">Coding in JavaScript, TypeScript and C# ❤️</p>
 
 <br>
 <br>
@@ -20,7 +20,7 @@
   <img alt="Languages" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
   <strong>Languages</strong>
 </div>
- 
+
 <br>
 
 <p align="center">
