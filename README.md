@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<h3 align="center">I’m full-stack developer and big tech fan 🖥️</h3>
+<h3 align="center">I’m front-end engineer and big tech fan 🖥️</h3>
 <p align="center">Coding in JavaScript, TypeScript and C# ❤️</p>
 
 <br>
