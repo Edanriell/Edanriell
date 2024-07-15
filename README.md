@@ -10,7 +10,7 @@
 <br>
 
 <h3 align="center">I’m Front-End Engineer and big tech fan 🖥️</h2>
-<h3 align="center">Specialize in React (Next) and Vue (Nuxt) 🚀</h3>
+<h3 align="center">Specialize in React (Next) 🚀</h3>
 <h3 align="center">Coding in JavaScript, TypeScript and C# ❤️</p>
 
 <br>
