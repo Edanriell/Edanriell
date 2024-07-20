@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,rider,clion,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,npm,pnpm" />
   </a>
 </p>
 
