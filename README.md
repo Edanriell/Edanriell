@@ -126,6 +126,6 @@
 
 <br>
 
-<img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooter.png" width="100%" /> 
+<img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooterWide.png" width="100%" /> 
 
 &hairsp;
