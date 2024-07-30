@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/Github.png" /> 
+<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/Github.png" width="50%" /> 
 
 <br>
 <br>
