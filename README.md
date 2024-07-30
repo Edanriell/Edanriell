@@ -1,18 +1,21 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40" width="100%"/> 
-</div>
-
-<h1 align="center">
-🚀🌟 Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-</h1>
+<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/Github.png" /> 
 
 <br>
 <br>
 
-<h3 align="center">I’m Front-End Engineer and big tech fan 🖥️</h2>
-<h3 align="center">Specialize in React (Next) 🚀</h3>
-<h3 align="center">Coding in JavaScript, TypeScript and C# ❤️</p>
+<h3 align="left">
+    Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+</h3>
+<h3 align="left">I’m Front-End Engineer and big tech fan !</h2>
+<h3 align="left">Specialize in React (Next) 🚀</h3>
+<h3 align="left">Coding in JavaScript, TypeScript and C#</p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -122,9 +125,5 @@
 <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="340" alt="Lauris's Dev Card"/></a>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%"/>
-</div>
 
 &hairsp;
