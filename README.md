@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/Github.png" width="60%" /> 
+<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubUniverse.png" width="60%" /> 
 
 <br>
 <br>
@@ -126,6 +126,6 @@
 
 <br>
 
-<img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooterWide2.png" width="100%" /> 
+<img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooterWideUniverse.png" width="100%" /> 
 
 &hairsp;
