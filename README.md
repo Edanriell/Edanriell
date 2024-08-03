@@ -19,95 +19,17 @@
 <br />
 <br />
 
-<div align="center">
-  <img alt="Languages" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
-  <strong>Languages</strong>
-</div>
+| <img alt="Languages" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /><strong>Languages</strong> | <strong>Frontend Technologies</strong> |
+| --- | --- |
+| <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,bash" /> | <div align="left"><img src="https://skillicons.dev/icons?i=react,sass,vue,webpack,vite,bootstrap,jquery,emotion" /></div><div align="left"><img src="https://skillicons.dev/icons?i=styledcomponents,tailwind,nextjs,materialui,threejs,pinia,redux,nuxtjs" /></div><div align="left"><img src="https://skillicons.dev/icons?i=svelte,astro,less,vuetify,gulp,angular" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Gsap-Dark.svg" /></div><div align="left"><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/FramerMotion.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/PrimeVue-Dark.svg" />&thinsp;&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/ReactQuery-Dark.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Shadcn-Dark.svg" />&thinsp;&thinsp;</span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Zod-Dark.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/ReactHookForm-Dark.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Swiper-Dark.svg" />&thinsp;&thinsp;<img src="https://skillicons.dev/icons?i=remix" /></div><div align="left"><img src="https://skillicons.dev/icons?i=solidjs" /></div> |
 
-<br />
+| <strong>Backend Technologies</strong> | <img alt="Database" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/server.gif" /><strong>Databases</strong> |
+| --- | --- |
+| <img src="https://skillicons.dev/icons?i=dotnet" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /> |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,bash" />
-  </a>
-</p>
-
-<br />
-
-<div align="center">
-  <strong>Frontend Technologies</strong>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,sass,vue,webpack,vite,bootstrap,jquery,emotion,styledcomponents,tailwind" />
-  </a>
-</p>
-
-<p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,materialui,threejs,pinia,redux,nuxtjs,svelte,astro,less,vuetify" /></a></span>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gulp,angular" /></a><span>&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Blazor.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Gsap-Dark.svg" />&thinsp;&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/FramerMotion.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/PrimeVue-Dark.svg" />&thinsp;&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/ReactQuery-Dark.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Shadcn-Dark.svg" />&thinsp;&thinsp;</span><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Zod-Dark.svg" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/ReactHookForm-Dark.svg" />
-
-<p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=remix,solidjs" /></a>&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Swiper-Dark.svg" /></span>
-</p>
-
-</p>
-
-<br />
-
-<div align="center">
-  <strong>Backend Technologies</strong>
-</div>
-
-<br />
-
-<p align="center">
-  <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></span>
-</p>
-
-<br />
-<br />
-
-<div align="center">
-  <img alt="Database" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/server.gif" /> 
-  <strong>Databases</strong>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-  </a>
-</p>
-
-<br />
-<br />
-
-<div align="center">
-  <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /> 
-  <strong>Tools</strong>
-</div>
-
-<br />
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure,netlify,vercel" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,npm,pnpm" />
-  </a>
-</p>
+| <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /><strong>Tools</strong> |
+| --- |
+| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure" /></div><div align="left"><img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,npm,pnpm,netlify,vercel" /></div> |
 
 <br />
 <br />
