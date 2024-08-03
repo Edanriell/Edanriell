@@ -25,11 +25,11 @@
 
 | <strong>Backend Technologies</strong> | <img alt="Database" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/server.gif" /><strong>Databases</strong> |
 | --- | --- |
-| <img src="https://skillicons.dev/icons?i=dotnet" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /> |
+| <div align="left"><img src="https://skillicons.dev/icons?i=dotnet" />&thinsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&thinsp;&thinsp;<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" /></div><div align="left"><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></div> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /> |
 
 | <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /><strong>Tools</strong> |
 | --- |
-| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git,azure" /></div><div align="left"><img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,npm,pnpm,netlify,vercel" /></div> |
+| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github" /></div><div align="left"><img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,npm,pnpm" /></div><div align="left"><img src="https://skillicons.dev/icons?i=git,azure,netlify,vercel" /></div> |
 
 <br />
 <br />
