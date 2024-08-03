@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubUniverse.png" width="60%" /> 
 
-<br>
-<br>
+<br />
+<br />
 
 <h3 align="left">
     Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
@@ -10,21 +10,21 @@
 <h3 align="left">Specialize in React (Next) 🚀</h3>
 <h3 align="left">Coding in JavaScript, TypeScript and C#</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <div align="center">
   <img alt="Languages" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/code.gif" /> 
   <strong>Languages</strong>
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,13 +32,13 @@
   </a>
 </p>
 
-<br>
+<br />
 
 <div align="center">
   <strong>Frontend Technologies</strong>
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -59,27 +59,27 @@
 
 </p>
 
-<br>
+<br />
 
 <div align="center">
   <strong>Backend Technologies</strong>
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <span><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&thinsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" /></a>&hairsp;&hairsp;&hairsp;&thinsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></span>
 </p>
 
-<br>
-<br>
+<br />
+<br />
 
 <div align="center">
   <img alt="Database" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/server.gif" /> 
   <strong>Databases</strong>
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -87,15 +87,15 @@
   </a>
 </p>
 
-<br>
-<br>
+<br />
+<br />
 
 <div align="center">
   <img alt="Tools" align="center" width="60px" src="https://github.com/Edanriell/Edanriell/blob/main/tool.gif" /> 
   <strong>Tools</strong>
 </div>
 
-<br>
+<br />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -109,22 +109,22 @@
   </a>
 </p>
 
-<br>
-<br>
+<br />
+<br />
 
 ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFEFE&color=444D57&title_color=3A80E8&point=5994EC&line=D8E5F9&radius=16)
 
-<br>
+<br />
 
 ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&card_width=400)
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=400)
-<br>
+<br />
 
 <img align="left" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16" alt="Most used languages" />
 
 <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="340" alt="Lauris's Dev Card"/></a>
 
-<br>
+<br />
 
 <img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooterWideUniverse.png" width="100%" /> 
 
