@@ -29,7 +29,7 @@
 
 | <strong>Tools</strong> |
 | --- |
-| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" /></div><div align="left"><img src="https://skillicons.dev/icons?i=azure,webstorm,rider,idea,clion,npm,pnpm" /></div><div align="left"><img src="https://skillicons.dev/icons?i=netlify,vercel" /></div> |
+| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" /></div><div align="left"><img src="https://skillicons.dev/icons?i=azure,webstorm,rider,idea,clion,npm,pnpm" /></div><div align="left"><img src="https://skillicons.dev/icons?i=netlify,vercel,yarn" /></div> |
 
 <br />
 <br />
