@@ -1,6 +1,8 @@
 <img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubUniverse.png" width="60%" /> 
+
 <br />
 <br />
+
 <h3 align="left">
     Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 </h3>
@@ -25,9 +27,9 @@
 | --- | --- |
 | <div align="left"><img src="https://skillicons.dev/icons?i=dotnet" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&hairsp;<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></div> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" /> |
 
-| <strong>Tools</strong> |
-| --- |
-| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" /></div><div align="left"><img src="https://skillicons.dev/icons?i=azure,webstorm,rider,idea,clion,npm,pnpm" /></div><div align="left"><img src="https://skillicons.dev/icons?i=netlify,vercel,yarn" /></div> |
+| <strong>Tools</strong> |<strong>Testing</strong> |
+| --- | --- |
+| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" /></div><div align="left"><img src="https://skillicons.dev/icons?i=azure,webstorm,rider,idea,clion,npm,pnpm" /></div><div align="left"><img src="https://skillicons.dev/icons?i=netlify,vercel,yarn" /></div> | <img src="https://skillicons.dev/icons?i=vitest" /> |
 
 <br />
 <br />
