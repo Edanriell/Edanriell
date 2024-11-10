@@ -5,7 +5,7 @@
 <h3 align="left">Specialize in React (Next) 🚀</h3>
 <h3 align="left">Coding in JavaScript, TypeScript and C#</h3>
 
-<a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="320" alt="Lauris's Dev Card" align="right" /></a>
+<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="320" alt="Lauris's Dev Card" align="right" /></a>
 
 <br />
 <br />
