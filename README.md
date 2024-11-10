@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubUniverse.png" width="60%" /> 
+
 
 <br />
 <br />
