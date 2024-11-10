@@ -45,5 +45,3 @@
 <img align="left" height="450" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut&langs_count=10" alt="Most used languages" />
 
 <a href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="320" alt="Lauris's Dev Card"/></a>
-<br />
-<img align="center" src="https://github.com/Edanriell/Edanriell/blob/main/assets/GithubFooterWideUniverse.png" width="100%" /> 
