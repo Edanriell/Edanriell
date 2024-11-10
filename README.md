@@ -1,4 +1,4 @@
-<a align="right" href="https://app.daily.dev/edanriell"><img align="right" src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=wide&r=dqw" width="70%" alt="Lauris's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/edanriell"><img align="right" src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=wide&r=dqw" width="64%" alt="Lauris's Dev Card"/></a>
 
 <h3 align="left">
     Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
