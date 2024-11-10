@@ -1,11 +1,11 @@
+<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="320" alt="Lauris's Dev Card" align="right" /></a>
+
 <h3 align="left">
     Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 </h3>
 <h3 align="left">I’m Front-End Engineer and big tech fan</h3>
 <h3 align="left">Specialize in React (Next) 🚀</h3>
 <h3 align="left">Coding in JavaScript, TypeScript and C#</h3>
-
-<a align="right" href="https://app.daily.dev/edanriell"><img src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=udb" width="320" alt="Lauris's Dev Card" align="right" /></a>
 
 <br />
 <br />
