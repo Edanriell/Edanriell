@@ -42,4 +42,4 @@
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=400)
 <br />
 
-<img height="25%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut&langs_count=10" alt="Most used languages" />
+<img height="450px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut&langs_count=10" alt="Most used languages" />
