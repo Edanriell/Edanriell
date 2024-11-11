@@ -2,12 +2,9 @@
 
 <br />
 
-<h3 align="left">
-    Hello there, my name is Lauris <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-</h3>
-<h3 align="left">I’m Front-End Engineer and big tech fan</h3>
-<h3 align="left">Specialize in React (Next) 🚀</h3>
-<h3 align="left">Coding in JavaScript, TypeScript and C#</h3>
+### Hello there, I'm Lauris 👋
+
+I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to building scalable, visually appealing applications. Whether it's crafting complex UI interactions or ensuring efficient back-end support, I enjoy turning ideas into reality with code.
 
 <br />
 <br />
