@@ -9,6 +9,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 | <strong>Languages</strong> | <strong>Frontend Technologies</strong> |
 | --- | --- |
