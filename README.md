@@ -44,7 +44,6 @@ I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **
 <img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=10" alt="Most used languages" />
 
 <br />
-<br />
 
 ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&rank_icon=default)
 
