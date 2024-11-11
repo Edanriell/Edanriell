@@ -1,7 +1,5 @@
 <a align="right" href="https://app.daily.dev/edanriell"><img align="right" src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=wide&r=dqw" width="50%" alt="Lauris's Dev Card"/></a>
 
-<br />
-
 ### Hello there, I'm Lauris 👋
 
 I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to building scalable, visually appealing applications. Whether it's crafting complex UI interactions or ensuring efficient back-end support, I enjoy turning ideas into reality with code.
