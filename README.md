@@ -36,10 +36,7 @@
 <br />
 <br />
 
-<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=10" alt="Most used languages" />
+<img align="left" height="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=10" alt="Most used languages" />
 
 ![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&rank_icon=default)
-
-<br />
-
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=467&card_height=270)
