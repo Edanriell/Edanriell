@@ -1,3 +1,6 @@
+<br />
+<br />
+
 <a align="right" href="https://app.daily.dev/edanriell"><img align="right" src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=4yn" width="35%" alt="Lauris's Dev Card"/></a>
 
 ### Hello there, I'm Lauris 👋
