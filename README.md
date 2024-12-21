@@ -53,3 +53,5 @@ I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **
 <br />
 
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=467)
+
+<br />
