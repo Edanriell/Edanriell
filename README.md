@@ -2,7 +2,6 @@
 
 <br />
 <br />
-
 <br />
 
 ### Hello there, I'm Lauris 👋
