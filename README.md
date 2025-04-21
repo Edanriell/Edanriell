@@ -12,6 +12,9 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
 <details>
   <summary><strong>Languages</strong></summary>
 
+  <br />
+  <br />
+
   | **Languages** |
   | --- |
   | <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,bash" /> |
