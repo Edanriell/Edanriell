@@ -1,17 +1,9 @@
-👋 Hi, I'm Lauris — a Front-End Engineer specializing in modern JavaScript frameworks like React (Next.js) and Vue 3 (Nuxt). I create performant, maintainable, and visually polished user interfaces, with additional experience in 3D web development using Three.js.
+## 👋 Hi, I'm Lauris
 
-I'm also proficient in back-end development with ASP.NET Core and C#, allowing me to build and integrate full-stack solutions when required.
+I'm a Front-End Engineer specializing in modern JavaScript frameworks like **React (Next.js)** and **Vue 3 (Nuxt)**. I create performant, maintainable, and visually polished user interfaces, with additional experience in **3D web development using Three.js**.
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+I'm also proficient in back-end development with **ASP.NET Core** and **C#**, allowing me to build and integrate full-stack solutions when required.
+
 <br />
 <br />
 
