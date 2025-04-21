@@ -13,7 +13,6 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
   <summary><strong>Languages</strong></summary>
 
   <br />
-  <br />
 
   | **Languages** |
   | --- |
