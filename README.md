@@ -1,14 +1,6 @@
-<a align="right" href="https://app.daily.dev/edanriell"><img align="right" src="https://api.daily.dev/devcards/v2/m35UVe1p9Qm059QD5h02k.png?type=default&r=4yn" width="40%" alt="Lauris's Dev Card"/></a>
+👋 Hi, I'm Lauris — a Front-End Engineer specializing in modern JavaScript frameworks like React (Next.js) and Vue 3 (Nuxt). I create performant, maintainable, and visually polished user interfaces, with additional experience in 3D web development using Three.js.
 
-<br />
-<br />
-<br />
-
-### Hello there, I'm Lauris 👋
-
-<br />
-
-I'm a **Front-End Engineer** and a passionate tech enthusiast specializing in **React (Next)** and **Vue 3 (Nuxt)**. My coding journey is driven by curiosity and a dedication to building scalable, visually appealing applications. Whether it's crafting complex UI interactions or ensuring efficient back-end support, I enjoy turning ideas into reality with code.
+I'm also proficient in back-end development with ASP.NET Core and C#, allowing me to build and integrate full-stack solutions when required.
 
 <br />
 <br />
