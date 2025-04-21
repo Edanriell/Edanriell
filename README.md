@@ -10,14 +10,12 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
 <br />
 
 <details>
-  <summary><strong>🗣️ Languages</strong></summary>
+  <summary><strong>Languages</strong></summary>
 
-  <br>
-
-  - JavaScript
-  - TypeScript
-  - HTML / CSS / SCSS
-  - C#
+  | **Languages** |
+  | --- |
+  | <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css,bash" /> |
+  
 </details>
 
 <br />
