@@ -64,9 +64,16 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
   
 </details>
 
-| **Tools** | **Testing** |
-| --- | --- |
-| <div align="left"><img src="https://skillicons.dev/icons?i=figma,ps,postman,vscode,visualstudio,github,git" /></div><div align="left"><img src="https://skillicons.dev/icons?i=webstorm,rider,idea,clion,azure,netlify,vercel" /></div><div align="left"><img src="https://skillicons.dev/icons?i=npm,pnpm" />&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Yarn-Dark.svg"/>&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Insomnia-Dark.svg"/>&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Prettier.svg"/>&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/ESLint-Dark.svg"/>&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Docker-Dark.svg"/></div><div><img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/OxidationCompiler-Dark.svg"/>&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img src="https://skillicons.dev/icons?i=gulp,webpack,vite" />&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TurboPack-Dark.svg"/></div> | <img src="https://skillicons.dev/icons?i=vitest,jest,cypress" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TestingLibrary-Dark.svg" />&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Storybook-Dark.svg"/> |
+<details>
+  <summary><strong>Testing</strong></summary>
+
+  <br />
+
+| **Testing** |
+| --- |
+| <img src="https://skillicons.dev/icons?i=vitest,jest,cypress" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/TestingLibrary-Dark.svg" />&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Storybook-Dark.svg"/> |
+  
+</details>
 
 <br />
 <br />
