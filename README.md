@@ -20,8 +20,6 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
   
 </details>
 
-<br />
-
 <details>
   <summary><strong>Frontend Technologies</strong></summary>
 
