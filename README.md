@@ -36,7 +36,7 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
 
   <br />
 
-| **Backend Technologies** | **Databases** |
+| **Backend Technologies** |
 | --- |
 | <div align="left"><img src="https://skillicons.dev/icons?i=dotnet" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Ef-Core.svg" />&hairsp;&hairsp;&hairsp;&hairsp;<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Mongoose-Dark.svg" /></div><div><img src="https://skillicons.dev/icons?i=supabase,bun" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Hono-Dark.svg" />&hairsp;&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/AutoMapper.svg" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/FluentValidation-Dark.svg" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Dapper-Dark.svg" />&hairsp;&hairsp;&hairsp;&hairsp;<img width="48px" height="48px" src="https://raw.githubusercontent.com/Edanriell/Edanriell/main/assets/icons/Polly-Dark.svg" /></div> |
   
