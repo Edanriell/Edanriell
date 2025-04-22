@@ -21,10 +21,9 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
 </details>
 
 <br />
-<br />
 
 <details>
-  <summary><strong>Languages</strong></summary>
+  <summary><strong>Frontend Technologies</strong></summary>
 
   <br />
 
@@ -34,7 +33,6 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
   
 </details>
 
-<br />
 <br />
 
 | **Languages** | **Frontend Technologies** |
