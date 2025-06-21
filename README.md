@@ -83,7 +83,7 @@ I'm also proficient in back-end development with **ASP.NET Core** and **C#**, al
 <br />
 <br />
 
-<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=12" alt="Most used languages" />
+<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=14" alt="Most used languages" />
 
 <br />
 
