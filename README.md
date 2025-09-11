@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lauris
 
-### Front-End Engineer | Full-Stack Developer
+### Front-End Developer
 
 I'm a Front-End Engineer specializing in modern JavaScript frameworks like **React (Next.js)** and **Vue 3 (Nuxt)**. I create performant, maintainable, and visually polished user interfaces.
 
