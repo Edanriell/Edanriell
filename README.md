@@ -81,7 +81,6 @@ My experience with **C#** and **.NET*** includes applying principles from **Clea
 ![Edanriell's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edanriell&bg_color=FFFEFE&color=444D57&title_color=3A80E8&point=5994EC&line=D8E5F9&radius=16)
 
 <br />
-<br />
 
 <img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=14" alt="Most used languages" />
 
