@@ -2,7 +2,7 @@
 
 ### Front-End Developer
 
-I'm a Front-End Engineer specializing in modern JavaScript frameworks like **React (Next.js)** and **Vue 3 (Nuxt)**. I create performant, maintainable, and visually polished user interfaces.
+My expertise lies in **React** and **Vue**, where I focus on building performant, maintainable, and visually polished user interfaces. I’m familiar with modern architectural approaches such as **Feature-Sliced Design** and **Atomic Design**, which support scalability and clean structure.
 
 I'm also proficient in back-end development with **ASP.NET Core** and **C#**, allowing me to build and integrate full-stack solutions when required.
 
