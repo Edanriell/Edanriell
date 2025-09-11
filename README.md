@@ -91,8 +91,3 @@ My experience with **C#** and **.NET*** includes applying principles from **Clea
 <br />
 
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=467)
-
-<br />
-<br />
-<br />
-<br />
