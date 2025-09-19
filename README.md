@@ -82,11 +82,11 @@ My experience with **C#** and **.NET** includes applying principles from **Clean
 
 <br />
 
-<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=16" alt="Most used languages" />
+<img align="left" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=16&cache_seconds=1800" alt="Most used languages" />
 
 <br />
 
-![Edanriell's github stats](https://github-readme-stats.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&rank_icon=default)
+![Edanriell's github stats](https://github-readme-stats-pied-xi-18.vercel.app/api?username=edanriell&show_icons=true&theme=default&border_radius=16&rank_icon=default)
 
 ![Edanriell's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edanriell&theme=default&border_radius=16&card_width=467)
 
