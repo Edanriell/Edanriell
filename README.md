@@ -82,7 +82,7 @@ My experience with **C#** and **.NET** includes applying principles from **Clean
 
 <br />
 
-<img align="left" height="500px" src="https://github-readme-stats-pied-xi-18.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=16" alt="Most used languages" />
+<img align="left" height="500px" src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=edanriell&count_private=true&theme=default&border_radius=16&layout=donut-vertical&langs_count=16" alt="Most used languages" />
 
 <br />
 
