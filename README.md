@@ -76,4 +76,3 @@ My experience with **C#** and **.NET** includes applying principles from **Clean
 </details>
 
 <br />
-<br />
