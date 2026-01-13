@@ -3,7 +3,6 @@
 ### Front-End Developer
 
 <br />
-<br />
 
 <details>
   <summary><strong>Languages</strong></summary>
